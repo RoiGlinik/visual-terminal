@@ -13,6 +13,7 @@
   },
   "main": "background.js",
   "dependencies": {
+    "@coreui/coreui": "^3.4.0",
     "@coreui/vue": "^3.2.7",
     "core-js": "^3.6.5",
     "node-pty": "^0.9.0",
