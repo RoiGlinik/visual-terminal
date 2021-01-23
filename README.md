@@ -1,15 +1,24 @@
-# visual-terminal
+# visual-terminal-vue
 
-## installation:
+## Project setup
+```
+npm install
+```
 
-1. run npm_install script.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-1. you might need to install these as well:
-    1. run : npm install --global --production windows-build-tools ( as admin )
-    1. [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/) - only the "Desktop C++ Apps" components are needed to be installed
-    1. Node.JS 10+
+### Compiles and minifies for production
+```
+npm run build
+```
 
+### Lints and fixes files
+```
+npm run lint
+```
 
-## Running
-1.
-    run: npm start
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
